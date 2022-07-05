@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 Deploy to VPS
 <p>
 <pre>
-git clone https://github.com/kevinnadar22/URL-Shortener-V2
+git clone https://github.com/Helpsomeone/URL-Shortener-V2
 cd URL-Shortener-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/config.py File Accordingly
@@ -82,4 +82,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Credits
 
  - Thanks To [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) For His Awesome README.md Template
- - [Thanks To Me](https://github.com/Kevinnadar22)
+ - [Thanks To Me](https://github.com/Helpsomeone)
