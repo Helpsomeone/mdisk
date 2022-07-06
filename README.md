@@ -1,13 +1,13 @@
 # URL Shortener Bot V2
 
 <p align="center">
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/kevinnadar22/URL-Shortener-V2?style=social">
+  <a href="https://github.com/Helpsomeone/mdisk/stargazers">
+    <img src="https://img.shields.io/github/stars/Helpsomeone/mdisk?style=social">
 
   </a>
   
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2/fork">
-    <img src="https://img.shields.io/github/forks/kevinnadar22/URL-Shortener-V2?label=Fork&style=social">
+  <a href="https://github.com/Helpsomeone/mdisk/fork">
+    <img src="https://img.shields.io/github/forks/Helpsomeone/mdisk?label=Fork&style=social">
 
   </a>  
 </p>
@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>Deploy To Heroku<P>
 <p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/kevinnadar22/MDISK-Convertor">
+<a href="https://heroku.com/deploy?template=https://github.com/Helpsomeone/mdisk">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -59,8 +59,8 @@ You can deploy this bot anywhere.
 Deploy to VPS
 <p>
 <pre>
-git clone https://github.com/Helpsomeone/URL-Shortener-V2
-cd URL-Shortener-V2
+git clone https://github.com/Helpsomeone/mdisk
+cd mdisk url shorten
 pip3 install -r requirements.txt
 # Change The Vars Of bot/config.py File Accordingly
 python3 -m bot
@@ -81,5 +81,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Credits
 
- - Thanks To [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) For His Awesome README.md Template
+ - Thanks To [Helpsomeone](https://github.com/Helpsomeone/mdisk) For His Awesome README.md Template
  - [Thanks To Me](https://github.com/Helpsomeone)
