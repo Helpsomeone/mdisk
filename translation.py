@@ -1,5 +1,5 @@
 BATCH = """This command is used to short all links in your channel. Make the bot as an admin in your channel.\n\n 
-Command usage: `/batch -100xxxx or @xxx`"""
+Command usage: `/connect - channel id or @user name`"""
 
 START_MESSAGE = '''Hi, {}
 
@@ -25,8 +25,8 @@ posting movies in channel I will edit all posts and add the converted link
 
 /start - start message
 
-/batch - This command is used to convert all links from the first post to last post in your channel. Make the bot as an 
-admin in your channel.\n\nCommand usage: `/batch [channel id or username]`
+/connect - This command is used to convert all links from the first post to last post in your channel. Make the bot as an 
+admin in your channel.\n\nCommand usage: `/connect [channel id or username]`
 
 /help - The current command
 
@@ -40,6 +40,6 @@ ABOUT_TEXT = """
 📝 Language: [Python 3](https://www.python.org/)
 🧰 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 👨‍💻 Developer: [Dev](t.me/ask_admin001)
-📢 Support: [Talk Bot](https://t.me/t2linkspromotion_bot)
-🌐 Source Code: [GitHub](https://github.com/T2links)
+📢 Support: [Talk Bot](https://t.me/+Xo3lqhG1TN9kOWM1)
+🌐 Source Code: [GitHub](https://github.com/Helpsomeone)
 """
