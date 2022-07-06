@@ -6,8 +6,8 @@
     "telegram",
     "shortener"
   ],
-  "website": "https://github.com/T2links/",
-  "repository": "https://github.com/T2links/",
+  "website": "https://github.com/Helpsomeone/",
+  "repository": "https://github.com/Helpsomeone/",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather",
