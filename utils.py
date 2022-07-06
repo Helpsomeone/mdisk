@@ -9,7 +9,7 @@ from pyrogram.types.list import List
 ####################  Mdisk  ####################
 
 async def get_mdisk(link):
-	url = 'https://diskuploader.mypowerdisk.com/v1/tp/cp'
+	url = 'https://mypowerdisk.com/mybox/'
 	param = {'token': MDISK_API, 'link': link
 			 }
 	res = requests.post(url, json=param)
